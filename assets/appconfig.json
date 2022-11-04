@@ -1,0 +1,20 @@
+{
+    "examname": "Politechnic 2020",
+    "baseUrl": "https://compacctexam.azurewebsites.net/",
+    "ConString": "Counselling",
+    "loginApi": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Student_Login_Checking&Sp_Name=SP_Common",
+    "OrganisationDetailsApi": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Get_Org&Sp_Name=SP_Common",
+    "studentDetailsApi": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Student_Details&Sp_Name=SP_Common",
+    "studentAllDataApi": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Coun_Txn_Student_Get_All_Data_For_Edit&Sp_Name=SP_Common",
+    "streamsApi": "api/Get_API_For_Stream?code=Fi26c3FXMVx9QZZFWqff5R9E9n/sS/BBIv7D4YiYVlxvww2ltjWvsg==&ConString=Counselling",
+    "collegesApi": "api/Get_Api_For_CllgDetails_And_Stream?code=oHb5bzKQ9dCqF2bAkwb01JZh8/C2veyHIVhlScbuJd5Ejy2H9bQLqw==&ConString=Counselling",
+    "studentAddEditApi": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Coun_Txn_Student_AddEdit&Sp_Name=SP_Common",
+    "deleteAllStudent": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Coun_Txn_Student_Delete&Sp_Name=SP_Common",
+    "deleteStudent": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Single_Delete_For_Coun_Txn_Student&Sp_Name=SP_Common",
+    "collegesApi2": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Get_Api_For_Cllg_Name&Sp_Name=SP_Common",
+    "streamsApi2": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Get_Api_For_Stream_Andcllg_id&Sp_Name=SP_Common",
+    "lockChoice": "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Choice_Lock&Sp_Name=SP_Common",
+    "collegeTypeApi" : "api/API_For_Coll_Type?code=PtUbnaJQg9dXrtHarigDe840ju/64YRbJZHK1aSCWDww7ETkY3xnkg==&ConString=Counselling",
+    "allotmentCanApi" : "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Candidate_Allotement&Sp_Name=SP_Common",
+    "UpgradeReqSaveApi" : "api/Mobile_Func_Adv?code=o6rKc5TNVSdylrOOkjbXLLaNvbNRGnvx4uLxGVdxDp9Txk4yzPZPxA==&Report_Name=Update_UPGRADE_Status&Sp_Name=SP_Common"
+}
